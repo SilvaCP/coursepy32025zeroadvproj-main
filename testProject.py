@@ -1,2 +1,0 @@
-print("Testando o repositório")
-
